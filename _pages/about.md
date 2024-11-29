@@ -1,23 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: |+
-  Leading Strategic Explorations team at <a href="https://openai.com/">OpenAI</a><br><br>
-  Incoming Assistant Professor, <br>
-  Electrical Engineering and Computing + Mathematical Sciences, <br>
-  <a href="https://www.caltech.edu">California Institute of Technology (Caltech)</a>.
+  <strong>PhD Student</strong> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>
 
 profile:
   image: profile.jpg
   image_cicular: false # crops the image to make it circular
   address: false
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Research:** My goal is to build powerful AI models capable of understanding, generating and reasoning with high-dimensional data across diverse modalities. I am currently focused on developing transferable techniques to improve generative models, including their training methodologies, architecture design, alignment, robustness, evaluation techniques and inference efficiency. I am also interested in generative modeling as a tool for scientific discovery. I invented many foundational concepts and techniques in (score-based) diffusion models, for which you can find more in a [blog post](/blog/2021/score/) and a [quanta magazine article](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/).
+I am a Computer Science PhD student at [Imperial College London](https://www.imperial.ac.uk/computing/) co-advised by [Yingzhen Li](http://yingzhenli.net/home/en/) and [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). My recent research interests have been in generative models and LLMs within the tabular data domain.
 
-**Previously:** I received my Ph.D. in Computer Science from [Stanford University](https://www.stanford.edu), advised by [Stefano Ermon](https://cs.stanford.edu/~ermon). I was a research intern at [Google Brain](https://research.google/teams/brain/), Uber ATG, and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). I obtained my Bachelor's degree in Mathematics and Physics from [Tsinghua University](https://www.tsinghua.edu.cn/), where I worked with [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml), [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/), and [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php).
+Before joining Imperial, I earned an M.Eng. in Artificial Intelligence from the [University of California, Los Angeles](https://www.ucla.edu/), and an H.BSc. in CS, Stats, and Econs at the [University of Toronto](https://www.utoronto.ca/). I was also fortunate to be advised by [Rahul Krishnan](http://www.cs.toronto.edu/~rahulgk/index.html) at the [Vector Institute](https://vectorinstitute.ai/), and [Jonathan Kao](https://seas.ucla.edu/~kao/people_dir/jonathan_kao.html) at UCLA where I researched machine learning architectures through deep generative modeling. I am also grateful to my instructors, [Jimmy Ba](https://jimmylba.github.io/) and [David Duvenaud](https://www.cs.toronto.edu/~duvenaud/), for sparking my initial interest in Machine Learning.
+
+If you are a student interested in research or would like to collaborate, please email me!
+
+Email:
+
+yuningyang@ucla.edu
+Yuning.Yang@fda.hhs.gov
