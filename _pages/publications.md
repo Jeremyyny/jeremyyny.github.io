@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: "(&#x2A) denotes equal contribution"
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2016]
+title: Publications
+years: [2024]
 nav: true
 nav_order: 2
 ---
@@ -16,4 +15,3 @@ nav_order: 2
 {% endfor %}
 
 </div>
-
